@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BucketList</string>
+    <string name="goal_header">Goal</string>
+    <string name="goal_title_hint">Enter Title</string>
+    <string name="goal_paused_label">Paused</string>
+    <string name="goal_completed_label">Completed</string>
+    <string name="notes_header">Notes</string>
+    <string name="goal_last_updated_label">Last updated today</string>
+    <string name="note_0_button_label">First Step</string>
+    <string name="note_1_button_label">Second Step</string>
+    <string name="note_2_button_label">Third Step</string>
+    <string name="note_3_button_label">Fourth Step</string>
+    <string name="note_4_button_label">PAUSED</string>
+    <string name="progress_count">Progress: %1$d</string>
+    <string name="title_text">My New Goal</string>
+    <string name="progress_text_hint">Enter Progress Text</string>
+    <string name="progress_dialog_title">Add Progress</string>
+    <string name="progress_dialog_positive">Add</string>
+    <string name="progress_dialog_negative">Cancel</string>
+    <string name="new_goal">New Goal</string>
+    <string name="no_goal_text">No goals yet!</string>
+    <string name="details_progress">Progress:</string>
+    <string name="details_completed">This goal has been Completed.</string>
+    <string name="details_paused">This goal has been Paused.</string>
+    <string name="share_goal">Share Goal</string>
+    <string name="take_photo_menu">Take Photo</string>
+    <string name="goal_photo">Goal Photo</string>
+    <string name="default_note_text">Default Note Text</string>
+</resources>
